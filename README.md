@@ -39,8 +39,8 @@ A modern, interactive dashboard for analyzing Stripe payment transactions with d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stripe-payments-analytics.git
-cd stripe-payments-analytics
+git clone https://github.com/onyedikachi-david/my-algora-stripe-payments.git
+cd my-algora-stripe-payments
 ```
 
 2. Install dependencies:
